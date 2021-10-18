@@ -3,7 +3,7 @@ parentdir="$(dirname "$dir")"
 parentdir="$(dirname "$parentdir")"
 
 ### Values to change -start ###
-wav_path="path to wav files"
+wav_path="/home/Sxd13/Sxd13StuA/zhudaobin/data_aishell/wav/train/S0002"
 valid_percentage=0.1
 ### Values to change -end ###
 
