@@ -3,7 +3,7 @@ parentdir="$(dirname "$dir")"
 parentdir="$(dirname "$parentdir")"
 
 ### Values to change -start ###
-wav_path="path to wav files"
+wav_path="/data02/imucs_data/machine34/zhudaobin/data/pretraining"
 valid_percentage=0.1
 ### Values to change -end ###
 
